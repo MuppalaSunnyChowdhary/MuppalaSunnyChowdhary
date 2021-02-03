@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Chowdhary Muppala</h1>
-<h3 align="center">Instructor at Educatia 👨‍💻 || DSC- SIST @ Member 🐦|| Jr. Data Analyst ⚛️ || Pythoneer 🐍</h3>
+<h3 align="center">Instructor at Educatia 👨‍💻 || Jr. Data Analyst ⚛️ || Pythoneer 🐍</h3>
 
 
 - 🔭 I’m currently working on **R Programming**
