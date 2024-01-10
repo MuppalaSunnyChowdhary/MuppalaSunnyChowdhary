@@ -39,7 +39,7 @@
 <h2 align="center">📫 Reach out to me</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/muppalasunnychowdhary/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:chowdarysunny89@gmail.com?subject=Hello%20Sunny,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sunnychowdhary89@gmail.com?subject=Hello%20Sunny,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Bring a Smile to Your Face 😊</h2>
